@@ -1,0 +1,1 @@
+//set a env variable in .bashrc
